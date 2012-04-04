@@ -1,3 +1,7 @@
 = DevelopmentRibbon
 
-This project rocks and uses MIT-LICENSE.
+Adds a nice ribbon to your pages when on development.
+
+= How to Use?
+
+Simply add the gem to your Gemfile and you're done!
